@@ -1,4 +1,3 @@
-package test;
 
 public interface IIterableTree<T> {
 
