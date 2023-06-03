@@ -1,4 +1,3 @@
-package test;
 
 public class IterableTree<T> extends RedBlackTree<String> implements IIterableTree<T>
 {
