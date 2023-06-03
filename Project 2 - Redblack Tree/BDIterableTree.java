@@ -1,4 +1,3 @@
-package test;
 
 //--== CS400 Fall 2022 File Header Information ==--
 //--== CS400 Fall 2022 File Header Information ==--
